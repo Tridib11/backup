@@ -1,0 +1,2 @@
+import ifnameequalsmain
+ifnameequalsmain.welcome()
